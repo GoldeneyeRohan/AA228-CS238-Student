@@ -1,0 +1,14 @@
+TODOS:
+1. X -- Load the data
+2. Graph Datastructures
+3. Score Graphs
+4. Find Neighboring Graphs
+5. Implement Algorithm
+
+2. Create bayesnet object:
+	- Underlying Graph
+	- Represent Mijk's
+	- ingest data
+
+3. Score Graph
+	- uniform prior scoring
