@@ -1,0 +1,15 @@
+fixedacidity, citricacid
+volatileacidity, freesulfurdioxide
+chlorides, density
+totalsulfurdioxide, volatileacidity
+density, citricacid
+density, totalsulfurdioxide
+ph, fixedacidity
+ph, volatileacidity
+ph, citricacid
+ph, sulphates
+sulphates, fixedacidity
+alcohol, fixedacidity
+alcohol, density
+alcohol, quality
+quality, fixedacidity
