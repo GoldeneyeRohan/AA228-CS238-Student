@@ -8,7 +8,7 @@ TODOS:
 2. Create bayesnet object:
 	- Underlying Graph
 	- Represent Mijk's
-	- ingest data
+	- ingest data (need to test further)
 
 3. Score Graph
 	- uniform prior scoring
